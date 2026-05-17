@@ -33,8 +33,13 @@ Uvicorn (ASGI Server)
 📁 Project Structure
 
 STUDENT_CRUD_FASTAPI/
+
 │
+
 ├── student_crud.py        # Main FastAPI application
+
 ├── students.db            # SQLite database (auto-created)
+
 ├── myenv/                 # Virtual environment (not included in GitHub)
+
 ├── __pycache__/           # Python cache files (ignored)
